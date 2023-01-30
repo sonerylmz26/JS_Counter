@@ -1,0 +1,28 @@
+body{
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+}
+h1{
+    font-size: 3rem;
+    color: rgb(177, 30, 222);
+font-weight: 800;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.buton input{
+    padding: 10px;
+    border:none;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+
+span{
+    font-size: 5rem;
+
+}
